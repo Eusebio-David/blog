@@ -1,0 +1,8 @@
+#django==3.2.16
+django-environ==0.11.2 #nos permite poner en secreto cosas como contraseñas
+django-cors-headers==4.3.1 #nos permite la comunicacion entre fron and backend, decide quien puede acceder
+djangorestframework==3.14.0 
+pillow==10.2.0 #para poder trabajar con imagenes 
+django-storages==1.14.2 #para poder guardar las imagenes
+django-ckeditor==6.7.0 #para poder crear contenido de manera mas rich, rica
+#pyscopg2==66.0.2
